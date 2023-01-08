@@ -1,0 +1,4 @@
+org\example\FillerService.class
+org\example\CupFillerService.class
+org\example\ApplicationContextProvider.class
+org\example\CupFillerProvider.class

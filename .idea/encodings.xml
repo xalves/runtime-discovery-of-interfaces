@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cup-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cup-app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cup-filler-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cup-filler-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cup-filler-no-style/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cup-filler-no-style/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cup-filler-style/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cup-filler-style/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

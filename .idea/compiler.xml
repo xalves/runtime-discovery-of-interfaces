@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cup-filler-api" />
+        <module name="cup-filler-no-style" />
+        <module name="cup-filler-style" />
+        <module name="cup-app" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cup-app" target="17" />
+      <module name="cup-filler-api" target="17" />
+      <module name="cup-filler-no-style" target="17" />
+      <module name="cup-filler-style" target="17" />
+      <module name="runtime-discovery-of-interfaces" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
